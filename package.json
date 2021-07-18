@@ -1,0 +1,9 @@
+{
+    "name": "xyz.coderiftel.option",
+    "version": "1.0.0",
+    "description": "Option enables you to better express intent in code",
+    "displayName": "option",
+    "author": {"name": "coderiftel"},
+    "hideInEditor": false,
+    "keywords": ["type", "option", "result", "coderiftel", "jonson"]
+}
